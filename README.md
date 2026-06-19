@@ -56,8 +56,8 @@ A/L Chemistry Mastery, on your laptop or desktop. This release adds native build
 If you'd like to confirm the file wasn't corrupted or tampered with in transit, compare its SHA-256 checksum against the value listed here:
 
 ```
-AMILAGuru-Setup-x64.exe     sha256:3620f5ad867c35e23fb63ec43e81ef78eeda5365f0530c65520b06684c066dbd
-AMILAGuru-x86_64.AppImage   sha256:fcd648fcc01b364a458a4814ff47507445ecd550f1290b7a58cb3007e4e5fd12
+AMILAGuru-Setup-x64.exe     sha256:e71f8e9004aeadfabdec37a784e5ee06ad6c58662ac339cb2bdd1fcaa39fde67
+AMILAGuru-x86_64.AppImage   sha256:3620f5ad867c35e23fb63ec43e81ef78eeda5365f0530c65520b06684c066dbd
 ```
 
 To generate a checksum yourself:
